@@ -67,7 +67,7 @@ license: (ISC)
 用浏览器打开`npm`官网[https://www.npmjs.com/](https://www.npmjs.com/)，点击[sign up](https://www.npmjs.com/signup)注册，点击[log in](https://www.npmjs.com/login)登录。
 
 图示：
-![npm登录及注册](./aa.png)
+![npm登录及注册](./src/img/aa.png)
 
 **注意：** 想要发布`npm`包需要上述注册信息，务必牢记注册名称，密码及邮箱（例如账号：loushengyue，密码：xxxxxx，邮箱：loushengyue@foxmail.com）。
 
